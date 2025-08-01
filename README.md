@@ -21,8 +21,42 @@
 
 ## Technologies Used
 
-- Programming Language: Python / C++ / Java *(adjust based on your usage)*
+- Programming Language: Python / C++
 - IDEs: Visual Studio Code, PyCharm, or others
 
 ## Directory Structure
+
+problem-solving-hub/
+│
+├── arrays/
+├── strings/
+├── recursion/
+├── sorting/
+├── linked_lists/
+├── trees/
+├── graphs/
+└── README.md
+
+
+## Objectives
+
+- Build a solid understanding of core problem-solving techniques
+- Prepare for technical interviews and coding assessments
+- Maintain a consistent habit of logical thinking through code
+
+## Contributing
+
+This is a personal learning project. Suggestions, feedback, or collaboration requests are always welcome. Feel free to open an issue or pull request if you find something useful to contribute.
+
+## License
+
+This repository is intended for educational purposes. You are encouraged to try solving problems independently before referring to the solutions provided.
+
+## Contact
+
+For questions or collaboration inquiries, feel free to reach out:
+
+- Email: zmrajpoot890@gmail.com
+
+
 
